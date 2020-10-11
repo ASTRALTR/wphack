@@ -1,7 +1,7 @@
 Bu tool "DİCAPTİONS" Tarafından yazılmıştır.
 
-kullanımı:
+KULLANIMI ;
 
-git clone https://github.com/Dicaptions/wphack
-cd wphack
-python3 wphack.py
+- git clone https://github.com/Dicaptions/wphack
+- cd wphack
+- python3 wp.py
