@@ -1,6 +1,4 @@
-Bu tool "DİCAPTİONS" Tarafından yazılmıştır.
-
-KULLANIMI ;
+-DarkDudes
 
 - git clone https://github.com/Dicaptions/wphack
 - cd wphack
