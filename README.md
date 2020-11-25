@@ -1,5 +1,6 @@
--DarkDudes
+Merhaba bu SCRIPT "ASTRAL" isimli Anonim bir hacker tarafından yazılmıştır 
+kullanımı aşşağıda mevcuttur ;
 
-- git clone https://github.com/Dicaptions/wphack
-- cd wphack
-- python3 wp.py
+1- git clone https://github.com/astralTR/wphack
+2- cd wphack
+3- python3 wp.py
